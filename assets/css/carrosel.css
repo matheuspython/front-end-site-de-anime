@@ -1,0 +1,11 @@
+section#carrosel{
+  width: 100%;
+  height: 300px;
+}
+section#carrosel img{
+  width: 100%;
+  background-size: cover;
+  object-fit: cover;
+  height: 100%;
+  background-position: center;
+}
