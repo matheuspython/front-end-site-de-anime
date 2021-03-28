@@ -1,0 +1,19 @@
+section#apresentacao {
+  width: 100%;
+  background-color: rgb(36, 35, 35);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 220px;
+  justify-content: center;
+}
+section#apresentacao h2{
+  font-size: 2rem;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+section#apresentacao p{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
