@@ -15,7 +15,7 @@ section#animes {
   border-radius: 12px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   text-align: center;
   align-items: center;
 }

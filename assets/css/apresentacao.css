@@ -17,3 +17,24 @@ section#apresentacao p{
   font-size: 1.5rem;
   font-weight: bold;
 }
+@media screen and (max-width: 730px) {
+  section#apresentacao{
+    height: 180px;
+  }
+}
+@media screen and (max-width: 550px){
+  section#apresentacao {
+    height: 220px;
+  }
+}
+@media screen and (max-width: 305px){
+  section#apresentacao {
+    height: 250px;
+  }
+  section#apresentacao h2{
+    font-size: 1.5rem;
+  }
+  section#apresentacao p{
+    font-size: 1.3rem;
+  }
+}
