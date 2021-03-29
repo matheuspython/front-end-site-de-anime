@@ -37,6 +37,7 @@ section#animes {
   text-align: justify;
 }
 .box a{
+  cursor:pointer;
   margin-top: 8px;
   color: white;
   display: inline-block;
